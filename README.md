@@ -1,6 +1,6 @@
 # Variational_method
 
-Inspired by short text conversation dataset
+Inspired by short text conversation(STC) dataset
 
 Multi-responses generation
 
